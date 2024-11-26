@@ -1,6 +1,8 @@
-![project logo](The_Odin_Project.png)
+<div align="center">
+  ![project logo](The_Odin_Project.png)
+</div>
 
-#Tracking my journey through The Odin Project
+# Tracking my journey through The Odin Project
 
 ```HTML
 <!DOCTYPE html>
