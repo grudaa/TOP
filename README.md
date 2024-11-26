@@ -1,6 +1,6 @@
-<div align="center">
-  ![project logo](The_Odin_Project.png)
-</div>
+<p align="center">
+  <img src="The_Odin_Project.png"/>
+</p>
 
 # Tracking my journey through The Odin Project
 
