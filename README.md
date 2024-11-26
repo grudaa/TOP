@@ -1,3 +1,16 @@
-Tracking my journey through The Odin Project
+![project logo](The_Odin_Project.png)
 
-I'm setting this repo up to track my progress in web development
+#Tracking my journey through The Odin Project
+
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My first project!!!</h1>
+</body>
+</html>
+```
